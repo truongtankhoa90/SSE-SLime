@@ -19,9 +19,3 @@ pip install -r requirements.txt
 Please cite our work if you find it helpful:
 
 ```
-@article{your2024paper,
-  title={Improved Explanations for Image Classification using S-LIME with Stratified Sampling and Sign Entropy},
-  author={Le, Thai Hoang and Nguyen, Viet Thanh Duy and Hinh, Trinh Ich},
-  year={2024}
-}
-```
